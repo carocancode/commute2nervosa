@@ -1,12 +1,12 @@
-# commute2nervosa
+# commute2nervosa APP
 
 
 Intro to UX engineering project 
-Commute2Nervosa is a coffee shop locator app
+Commute2Nervosa is a coffee shop locator app (Frasier Inspired)
+
+https://www.figma.com/proto/BF6jedj7ZC6XlktryXBRYi/15-Screens?node-id=1-2&starting-point-node-id=1%3A2&t=umSGPuI5Lmxowp72-1
 
 
-
-https://www.figma.com/proto/BF6jedj7ZC6XlktryXBRYi/15-Screens?node-id=1-4&starting-point-node-id=1%3A2
 
 
 ![image](https://github.com/carocancode/commute2nervosa/assets/49445004/86983d06-0765-4379-a4e9-607dd870e436)
